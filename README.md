@@ -1,7 +1,7 @@
  [![MasterHead](https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">Hello, I'm Enes .I graduated from Akdeniz University Management Information Systems in June 2023. I chose to be a frontend developer and I continue to develop projects and learn new technologies in this field.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahzunes&label=Profile%20views&color=0e75b6&style=flat" alt="mahzunes" /> </p>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React,Python,SQL**
 
 - 📫 How to reach me **basarreness@gmail.com**
 
