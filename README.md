@@ -1,4 +1,4 @@
- [![MasterHead](https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 
 <h1 align="center">Hi 👋, I'm Enes</h1>
 
