@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React,Python,SQL,Kafka,Spark,Hadoop,Airflow**
+- 🔭 I’m currently working on **React,Python,SQL,Kafka,Spark,Hadoop,Airflow,AWS**
 
 - 📫 How to reach me **basarreness@gmail.com**
 
