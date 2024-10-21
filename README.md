@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Enes</h1>
+
 
 
 
